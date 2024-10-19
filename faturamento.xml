@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FaturamentoMensal>
+    <MenorFaturamento>720</MenorFaturamento>
+    <MaiorFaturamento>1400</MaiorFaturamento>
+    <DiasAcimaMedia>15</DiasAcimaMedia>
+</FaturamentoMensal>
